@@ -1,0 +1,4 @@
+ - wake up the kraken
+ - make and create repo
+ - modify a file locally (done yet)
+ - modify the Github repo
